@@ -30,6 +30,6 @@ cd EMS-PYTHON
 pip install -r requirements.txt
 
 4.Run the application
-streamlit run Employee_Management_System.py
+streamlit run app.py
 
 
